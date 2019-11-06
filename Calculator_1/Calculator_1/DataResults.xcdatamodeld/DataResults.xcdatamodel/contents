@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="15508" systemVersion="19B88" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Nums" representedClassName="Nums" syncable="YES">
+        <attribute name="num" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Nums" positionX="-537.54296875" positionY="-8.7578125" width="132.984375" height="58"/>
+    </elements>
+</model>
